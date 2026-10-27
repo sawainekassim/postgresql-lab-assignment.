@@ -1,0 +1,13 @@
+# Local configuration and secrets
+flyway.local.toml
+.env
+.env.*
+*.secret
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# OS files
+Thumbs.db
+.DS_Store
